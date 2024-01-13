@@ -6,6 +6,6 @@ import androidx.tv.material3.Text
 
 @OptIn(ExperimentalTvMaterial3Api::class)
 @Composable
-fun HomeContent() {
-    Text("Home Screen Content")
+fun MovieContent() {
+    Text("Movie Screen Content")
 }

@@ -11,7 +11,7 @@ import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.tv.material3.ExperimentalTvMaterial3Api
 import androidx.tv.material3.Surface
-import com.guido.myapplicationtv.screen.NavigationDrawer
+import com.guido.myapplicationtv.navigation.NavigationDrawer
 import com.guido.myapplicationtv.ui.theme.MyApplicationTvTheme
 
 class MainActivity : ComponentActivity() {
